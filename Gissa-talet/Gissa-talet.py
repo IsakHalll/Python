@@ -1,29 +1,45 @@
+from colors import bcolors
 import random
 import os
 os.system('cls')
 
-print ("---gissa talet från 1-100---")
+print (bcolors.BLUE + '''
+-----================-----
+  gissa talet från 1-100 
+-----du har 7 försök!-----
+''')
 
-secret_number=random.randint(1,100)
-lives=7
 
-while True:
-    try:
-        guess=int(input("Din gissning: "))
+while True: 
+    secret_number=random.randint(1,100)
+    lives=7
+
+    while True:    #Spelomgången startar
+        try:
+            guess=int(input(bcolors.DEFAULT + "Din gissning: "))
+        except:
+            print ("Skriv i heltal")
+            continue
+
         if guess == secret_number:
-            print("Du gissade rätt")
+            print(bcolors.GREEN + "Du gissade rätt")
             break
+           
         elif guess > secret_number:
-            print ("lägre")
+            print (bcolors.RED + bcolors.UNDERLINE + bcolors.BOLD + "GISSA LÄGRE!")
             lives-=1
-            print ("Du har",lives,"försök kvar")
+            print (bcolors.DEFAULT + "Du har",lives,"försök kvar")
         elif guess < secret_number:
-            print("högre")
+            print (bcolors.RED + bcolors.UNDERLINE + bcolors.BOLD + "GISSA HÖGRE!")
             lives-=1
-            print ("Du har",lives,"försök kvar")
+            print (bcolors.DEFAULT + "Du har",lives,"försök kvar")
         if lives == 0:
-            print("Du förlorade")
+            print(bcolors.RED + "Du förlorade")
             break
-    except:
-        print ("Skriv i heltal")
+
+    again=input("Vill du spela igen? [j]=Ja [n]=Nej: ")
+    if again.lower() == "n":
+        exit()
+    elif again.lower() == "j":
+       continue            
 
