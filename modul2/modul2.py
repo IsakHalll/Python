@@ -19,7 +19,7 @@ b2=float(input("din vikt:"))
 print(b2/(a2**2))
 
 
-a3=int(input("din ålder: "))    #ålder i verckor
+a3=int(input("din ålder: "))    #ålder i veckor
 print("din ådler i veckor:", a3*52)
 """
 
