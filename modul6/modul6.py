@@ -21,7 +21,7 @@ i=0
 while i <= 10:
     print(calc_me2(1,2))
     i = i + 1
-
+"""
 
 my_list = ["nicklas",  "njclkas", "nicklad", "leonard"]
 keys = ["A" , "R", "E"]
@@ -55,6 +55,7 @@ while True:
         print(list_name())
 
 
+"""
 def calc(x, y, op):
     if op == "+":
         return x+y
