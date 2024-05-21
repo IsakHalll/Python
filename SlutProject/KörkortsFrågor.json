@@ -1,0 +1,141 @@
+[
+    {
+        "question": "Måste du alltid stanna innan du korsar en väg där vägmärket ”Stopplikt” är uppsatt?",
+        "answers": ["a) Ja","b) Nej, jag behöver endast stanna om det finns en stopplinje","c) Nej, Inte om vägmärket är uppsatt vid en korsning med trafiksingnaler", "d) Fel svar"] , 
+        "correct-answer": "c"
+    },
+    {
+        "question": "Vad kan sannolikhetsinlärning leda till?",
+        "answers": ["a) Att jag kör fort vid en cykelpassage där det ofta kommer cykeltrafikanter, trots dålig sikt","b) Att jag kör långsamt vid en cykelpassage där det sällan kommer cykeltrafikanter, trots bra sikt","c) Att jag kör fort  vid en cykelpassage där det sällan kommer cykeltrafikanter, trots dålig sikt", "d) Fel svar"] , 
+        "correct-answer": "c"
+    },
+    {
+        "question": "Ditt avstånd till framförvarande fordon är viktigt ur ett säkerhetsperspektiv. Vad är sant?",
+        "answers": ["a) Ett kort avstånd underlättar för bakomvarande trafik som kör om", "b) Ett kort avstånd minskar risken för tunnelseende", "c) Ett långt avstånd underlättar för bakomvarande trafik som kör om", "d) Ett långt avstånd minskar risken flr tunnelseende"] ,
+        "correct-answer": "c"
+    },
+    {
+        "question": "Ur en miljösynpunkt ska du inte tvätta din bil på en asfalterad uppfart som lutar ut mot gatan. Varför?",
+        "answers": ["a) Gatan skadas av de kemikalier som rinner av bilen", "b) Kemikalier och oljerester rinner ut i gatubrunnar som sedan leder ut till närmaste vattendrag", "c) Biltvättmedel föångas och bidar till växthuseffekten", "d) Det går ät mer vatten när jag tvättar bilen själv jämfört med en professionell biltvät"] , 
+        "correct-answer": "b"
+    },
+    {
+        "question": "Du kör på en väg med hastighetsbegränsning 70 km/h. Hur långt gäller detta vägmärke?",
+        "answers": ["a) Fram till slutmärket för detta vägmärke", "b) Fram till nästa korsning", "c) 50-200 meter", "d) 200-400 meter"] , 
+        "correct-answer": "a"
+    },
+    {
+        "question": "Trafikljusen blinkar guld. Vad är rätt?",
+        "answers": ["a) Jag måste stanna och vänta tills trafikljuset lyser grönt", "b) Jag kan köra, men jag har väjningsplikt mot all trafik i korsningen", "c) Jag måste stanna vid linjen innan jag kör in i korsningen", "d) Fel svar"] , 
+        "correct-answer": "b"
+    },
+    {
+        "question": "Vad gäller vid bogsering av en annan bil?",
+        "answers": ["Den högsta tillåtna hastighet är 50km/h", "Varningblinkers på bilen som blir bogserad måsta vara på", "Om bogseingslinan är längre än två meter så måste den märkas ut", "d) Fel svar"] , 
+        "correct-answer": "c"
+    },
+    {
+        "question": "Du har en lastad släpvagn kopplad till din bil. Hur kan du enklast ändra kultrycket?",
+        "a": "Jag ändrar lastens placering i bilen",
+        "b": "Jag ändrar lastens placering i släpvagnen",
+        "c": "Jag ökar lufttrycket i bilens däck",
+        "d": "Jag ökar lufttrycket i släpvagnens däck",
+        "correct-answer": "b"
+    },
+    {
+        "question": "Du kör 100 km/h på en motortrafikled. Hur lång är din reaktionssträcka om din reaktionstid är en sekund?",
+        "a": "Ca 30 meter",
+        "b": "Ca 50 meter",
+        "c": "Ca 70 meter",
+        "d": "Ca 100 meter",
+        "correct-answer": "a"
+    },
+    {
+        "question": "Du kör i en hastighet på 90 km/h. Hur mycket minskar din bromssträcka om du sänker hastigheten till 30 km/h?",
+        "a": "Till en niondel",
+        "b": "Till en fjärdedel",
+        "c": "Till en tredjedell",
+        "d": "Till hälften",
+        "correct-answer": "a"
+    },
+    {
+        "question": "Vad är det första du ska göra om du kommer som första person till en trafikolycka?",
+        "a": "Varna andra trafikanter",
+        "b": "Överblicka",
+        "c": "Ringa 112",
+        "d": "Ta de inblandade personernas uppgifter",
+        "correct-answer": "b"
+    },
+    {
+        "question": "När måste last märkas ut?",
+        "a": "All last som skjuter ut bakom bilen",
+        "b": "All last som skjuter ut framför och bakom bilen",
+        "c": "All last som inte syns tydligt och skjuter ut framför bilen",
+        "d": "Ungen last måste märkas ut, men det underlättar för andra i trafiken",
+        "correct-answer": "c"
+    },
+    {
+        "question": "Hur många procent, av de skadliga ämnena som släpps ut, renar katalysatorn?",
+        "a": "10-30%",
+        "b": "40-60%",
+        "c": "80-95%",
+        "d": "Över 99%",
+        "correct-answer": "c"
+    },
+    {
+        "question": "Du kör i mörker på en gata där gatubelysning saknas. Vad utgör störst fara?",
+        "a": "Forgängare utan reflexer",
+        "b": "Mötande fordon",
+        "c": "Omkörande fordon",
+        "d": "Motorcyklar och mopeder",
+        "correct-answer": "a"
+    },
+    {
+        "question": "Vid vilket tillfälle måste du signalera med blinkers?",
+        "a": "När jag backar i en kurva",
+        "b": "När jag ska vända genom att göra en U-sväng",
+        "c": "När jag står parkerad vid vägkanten",
+        "d": "När jag stannar vid vägkanten",
+        "correct-answer": "b"
+    },
+    {
+        "question": "Vad är det första du ska göra vid vänstersväng på landsväg?",
+        "a": "Kontrollera trafiken bakom dig",
+        "b": "Ge körriktningstecken",
+        "c": "Sänka hastigheten",
+        "d": "Växla till en lägre växel",
+        "correct-answer": "a"
+    },
+    {
+        "question": "Du kör i stadstrafik och ska korsa en cykelöverfart. Från höger närmar sig en moped klass II på cykelöverfarten. Vad gäller?",
+        "a": "Högerregeln gäller",
+        "b": "Utfartsregeln gäller",
+        "c": "Jag ska lämna företräde åt föraren av mopeden",
+        "d": "Föraren av mopeden ska lämna mig företräde",
+        "correct-answer": "c"
+    },
+    {
+        "question": "Vilka fordon får köra i en bus fil?",
+        "a": "Endast bussar",
+        "b": "Bussar och fordon med två hjul",
+        "c": "Linjetrafik och cyklister",
+        "d": "Linjetrafik och LGF-fordon",
+        "correct-answer": "c"
+    },
+    {
+        "question": "Du har köpt en ny bil som du kontrollbesiktigar första gången den 15 mars 2020. När måste den senast besiktigas nästa gång?",
+        "a": "31 mars 2021",
+        "b": "31 maj 2021",
+        "c": "31 mars 2022",
+        "d": "31 mars 2023",
+        "correct-answer": "c"
+    },
+    {
+        "question": "Du är ute och kör på en landsväg i tjock dimma. Vad är viktigast att göra för att minska risken för trafikolycka?",
+        "a": "Jag har dimljuset framtill tänt",
+        "b": "Jag har dimbakljuset tänt",
+        "c": "Jag kör längs högerkanten för att undvika omkörande mötande fordon",
+        "d": "Jag håller tillräckligt långt avstånd till fordon framför mig",
+        "correct-answer": "d"
+    }
+]
